@@ -1,16 +1,19 @@
-# demo_fyp
+# MMUCord - An instant messaging platform with embedded analytics
 
-A new Flutter project.
+MMUCord is an instant messaging application with added embedded analytics to provide a better user experience. The application is more geared towards organizations and customer service industries.
 
-## Getting Started
+# Features
+MMUCord has various features, features related to instant messaging and features related to embedded analytics, below features related to both categories are listed.
 
-This project is a starting point for a Flutter application.
+## Instant Messaging
 
-A few resources to get you started if this is your first Flutter project:
+- User registeration
+- Upload a user's profile picture
+- Send and recieve text messages in real-time
+- Read receipts
+- Typing indicators
+- Online Indicators
+- List of users on the platform
+- Distinct chats with unread message counter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
