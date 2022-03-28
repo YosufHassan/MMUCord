@@ -16,4 +16,12 @@ MMUCord has various features, features related to instant messaging and features
 - List of users on the platform
 - Distinct chats with unread message counter
 
+## Embedded Analytics
+
+- Number of total messages recieved for the user
+- Number of read messages as a ratio of the total received messages
+- Number of unread messages as a ratio of the total received messages
+- Number of the chats for the user
+- Number of active chats as a ratio of the total active chats
+- Number of unread chats as a ratio of the total active chats
 
