@@ -26,10 +26,14 @@ MMUCord has various features, features related to instant messaging and features
 - Number of active chats as a ratio of the total active chats
 - Number of unread chats as a ratio of the total active chats
 
-# Components used
+## Components used
 
 This application used the following tech stack.
 
 - Docker
+- FastAPI
 - RethinkDB
 - Flutter
+
+# The API used github link
+https://github.com/YosufHassan/MMUCord-API
