@@ -3,6 +3,7 @@
 MMUCord is an instant messaging application with added embedded analytics to provide a better user experience. The application is more geared towards organizations and customer service industries.
 
 # Features
+
 MMUCord has various features, features related to instant messaging and features related to embedded analytics, below features related to both categories are listed.
 
 ## Instant Messaging
@@ -25,3 +26,10 @@ MMUCord has various features, features related to instant messaging and features
 - Number of active chats as a ratio of the total active chats
 - Number of unread chats as a ratio of the total active chats
 
+# Components used
+
+This application used the following tech stack.
+
+- Docker
+- RethinkDB
+- Flutter
