@@ -25,6 +25,7 @@ MMUCord has various features, features related to instant messaging and features
 - Number of the chats for the user
 - Number of active chats as a ratio of the total active chats
 - Number of unread chats as a ratio of the total active chats
+- Determine if the user is expected to be busy or free at the time to chat with based on recent activity
 
 ## Components used
 
@@ -35,7 +36,15 @@ This application used the following tech stack.
 - RethinkDB
 - Flutter
 
-![alt text](https://d33wubrfki0l68.cloudfront.net/abb2281c227c04163b8093e3851d9a8488046325/29162/assets/images/posts/2015-03-06-docker-banner.png)
+## Screenshots
+### Messages Screen
+![alt text](https://pasteboard.co/jRIXqyRDnfYb.png)
+### Message Thread
+![alt text](https://pasteboard.co/KUHyorH5v20s.png)
+### Active Users Tab
+![alt text](https://pasteboard.co/0uA2QXY18rwM.png)
+### Embedded Analytics Screen
+[! alt text](https://pasteboard.co/G3IKeBbDIIym.jpg)
 
 ![alt text](https://cdn.flutterhq.com/flutter_header.jpeg)
 
