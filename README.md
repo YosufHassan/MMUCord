@@ -38,7 +38,7 @@ This application used the following tech stack.
 
 ## Screenshots
 ### Messages Screen
-![alt text](https://pasteboard.co/jRIXqyRDnfYb.png)
+[url=https://postimg.cc/64QYSQcm][img]https://i.postimg.cc/64QYSQcm/Active-Messages-Screen.png[/img][/url]
 ### Message Thread
 ![alt text](https://pasteboard.co/KUHyorH5v20s.png)
 ### Active Users Tab
