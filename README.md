@@ -44,7 +44,7 @@ This application used the following tech stack.
 ### Active Users Tab
 ![alt text](https://pasteboard.co/0uA2QXY18rwM.png)
 ### Embedded Analytics Screen
-[! alt text](https://pasteboard.co/G3IKeBbDIIym.jpg)
+[! alt text](https://gcdnb.pbrd.co/images/G3IKeBbDIIym.jpg?o=1)
 
 ![alt text](https://cdn.flutterhq.com/flutter_header.jpeg)
 
