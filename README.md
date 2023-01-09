@@ -40,13 +40,11 @@ This application used the following tech stack.
 ### Messages Screen
 [![H7zMalj.md.png](https://iili.io/H7zMalj.md.png)](https://freeimage.host/i/H7zMalj)
 ### Message Thread
-![alt text](https://pasteboard.co/KUHyorH5v20s.png)
+[![H7zhH1n.md.png](https://iili.io/H7zhH1n.md.png)](https://freeimage.host/i/H7zhH1n)
 ### Active Users Tab
-![alt text](https://pasteboard.co/0uA2QXY18rwM.png)
+[![H7zNaQ2.md.png](https://iili.io/H7zNaQ2.md.png)](https://freeimage.host/i/H7zNaQ2)
 ### Embedded Analytics Screen
-[! alt text](https://gcdnb.pbrd.co/images/G3IKeBbDIIym.jpg?o=1)
-
-![alt text](https://cdn.flutterhq.com/flutter_header.jpeg)
+[![H7zNaQ2.md.png](https://iili.io/H7zNaQ2.md.png)](https://freeimage.host/i/H7zNaQ2)[![H7zOWFt.md.jpg](https://iili.io/H7zOWFt.md.jpg)](https://freeimage.host/i/H7zOWFt)
 
 # The API used github link
 https://github.com/YosufHassan/MMUCord-API
