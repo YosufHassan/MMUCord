@@ -44,7 +44,7 @@ This application used the following tech stack.
 ### Active Users Tab
 [![H7zNaQ2.md.png](https://iili.io/H7zNaQ2.md.png)](https://freeimage.host/i/H7zNaQ2)
 ### Embedded Analytics Screen
-[![H7zNaQ2.md.png](https://iili.io/H7zNaQ2.md.png)](https://freeimage.host/i/H7zNaQ2)
+[![H7zOWFt.md.jpg](https://iili.io/H7zOWFt.md.jpg)](https://freeimage.host/i/H7zOWFt)
 
 # The API used github link
 https://github.com/YosufHassan/MMUCord-API
